@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>decorairytvideo</name>
+    <displayName>Decorair YouTube SEO</displayName>
+    <version>1.0.0</version>
+    <description>YouTube video management with VideoObject schema for SEO</description>
+    <author>decorair</author>
+    <tab>seo</tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+    <limited_countries></limited_countries>
+</module>
